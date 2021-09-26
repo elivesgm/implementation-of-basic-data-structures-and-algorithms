@@ -1,8 +1,10 @@
 ## build
+```shell
 g++ -std=c++11 01knapsack.cpp -o 01knapsack
-
+```
 
 ## run and test
+```shell
 ./01knapsack
 5
 10
@@ -22,3 +24,4 @@ OUTPUT:
 0 0 6 6 9 9 9 10 11 13 14
 0 0 6 6 9 9 12 12 15 15 15
 15
+```
